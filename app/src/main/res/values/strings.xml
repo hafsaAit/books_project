@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SchoolProject</string>
+    <string name="categories">Categories:</string>
+    <string name="open_btn_description">Open category button</string>
+    <string name="list_of_books">%s: List of books</string>
+    <string name="available">Available</string>
+    <string name="unavailable">Unavailable</string>
+    <string name="book_hint">Type the book name...</string>
+</resources>
